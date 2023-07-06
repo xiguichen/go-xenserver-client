@@ -3,8 +3,9 @@ package client
 import (
 	"errors"
 	"fmt"
-	log "github.com/Sirupsen/logrus"
-	"github.com/nilshell/xmlrpc"
+
+	"github.com/kolo/xmlrpc"
+	log "github.com/sirupsen/logrus"
 )
 
 type XenAPIClient struct {

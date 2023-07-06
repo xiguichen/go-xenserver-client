@@ -2,8 +2,9 @@ package client
 
 import (
 	"fmt"
-	"github.com/nilshell/xmlrpc"
 	"strconv"
+
+	"github.com/kolo/xmlrpc"
 )
 
 type VM XenAPIObject
