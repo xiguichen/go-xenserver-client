@@ -1,4 +1,4 @@
-module github.com/xenserver/go-xenserver-client
+module github.com/xiguichen/go-xenserver-client
 
 go 1.20
 
